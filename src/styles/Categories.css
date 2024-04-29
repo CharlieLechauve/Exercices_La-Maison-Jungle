@@ -1,0 +1,35 @@
+.lmj-categories {
+	text-align: center;
+
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.lmj-categories-select {
+	margin-right: 15px;
+}
+
+.button {
+  appearance: none;
+  background-color: #31b572;
+  border: 1px solid rgba(27, 31, 35, .15);
+  border-radius: 6px;
+  box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  padding: 4px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.button:hover {
+  background-color: #2c974b;
+}
